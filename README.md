@@ -25,11 +25,7 @@ Discord typically doesn’t make significant changes to its files during updates
     ```bash
     chmod +x updateDiscord.sh
     ```
-    and them, you run in system where discord doesn't locate in root
+    and them, you run the script with:
     ```bash
     sudo ./updateDiscord.sh
-    ```
-    Else run without sudo
-    ```bash
-    ./updateDiscord.sh
     ```
